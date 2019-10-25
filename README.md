@@ -5,10 +5,10 @@
 ## Description:
   This is an application that allows wildlife rangers to track wildlife sightings in the area.
   
-## Built With:
-  * Language - [Java](https://www.java.com/)
-  * Intergated Development Environment - [IntelliJ IDEA](https://www.jetbrains.com/idea/)
-  * Framework - [Apache Spark](https://spark.apache.org/)
+  ### Built With:
+    * Language - [Java](https://www.java.com/)
+    * Intergated Development Environment - [IntelliJ IDEA](https://www.jetbrains.com/idea/)
+    * Framework - [Apache Spark](https://spark.apache.org/)
 
 
 ## Project Pre-requisites
