@@ -35,7 +35,7 @@
   * Navigate into the ``` src/main/java/App.java ``` and run in IntelliJ IDEA
   * On your browser and type ``` localhost:4567 ```
  
-## RUNING TESTS 
+## RUNNING TESTS 
  Create a test class for running tests in the application
  Below is a sample test:
  ```
