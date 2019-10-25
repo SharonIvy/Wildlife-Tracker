@@ -1,5 +1,6 @@
 # WILDLIFE TRACKER
- ### By:Sharon Ivy Kendi M.
+  ### By:
+   #### Sharon Ivy Kendi M.
 
 ## DESCRIPTION:
   This is an application that allows wildlife rangers to track wildlife sightings in the area.
@@ -47,7 +48,7 @@
 
 ## KNOWN BUGS
  No bugs were detected during the development of this project
- :+1:
+ #### :+1:
   
 ## LICENSING
   MIT License
