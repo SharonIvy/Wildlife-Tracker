@@ -99,7 +99,8 @@ public class EndangeredAnimal  {
                     .executeAndFetch(EndangeredAnimal.class);
         }
     }
-    
+
+//    @Override
     public EndangeredAnimal findById(int id) {
         String sql = "SELECT * FROM endangered_animals WHERE id=:id";
         try (Connection conn = Database.sql2otest2.open()){

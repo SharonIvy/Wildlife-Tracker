@@ -47,7 +47,9 @@ html {
   scroll-behavior: smooth;
 }
 
-/*SCROLL BAR*/
+/*------------------------------------
+			SCROLL BAR
+---------------------------------------*/
 body::-webkit-scrollbar{
   width: 4px;
   background-color: rgb(119, 119, 117);
@@ -136,7 +138,9 @@ nav>a:hover::after {
   text-align: center;
 }
 
-/*NEW ANIMAL*/
+/*-------------------------------------
+        NEW ANIMAL
+-------------------------------------*/
 .new-animal-cont{
   display: flex;
   min-height: 100vh;
@@ -235,7 +239,9 @@ form select {
 }
 
 
-/*DASHBOARD*/
+/*------------------------------------
+              DASHBOARD
+------------------------------------=*/
 .dash {
   min-height: 100vh;
   background: rgb(0, 1, 53);
@@ -402,7 +408,9 @@ form select {
   margin: 5px 0;
 }
 
-/*SUCCESS*/
+/*----------------------------------------
+              SUCCESS
+-----------------------------------------*/
 .success-cont{
   min-height: 100vh;
   padding-top: 10%;

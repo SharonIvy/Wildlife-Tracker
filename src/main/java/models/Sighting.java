@@ -15,6 +15,7 @@ public class Sighting {
     private int animal_id;
     private int id;
     private DateTimeFormatter time;
+//    private static ArrayList<Animal> allAnimals = new ArrayList<>();
 
     public Sighting(int animalId,String location, String rangerName){
         this.animal_location = location;
