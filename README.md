@@ -31,7 +31,7 @@
   'git clone https://github.com/SharonIvy/Wildlife-Tracker.git' to clone this repository locally
  ### Installation process:
   * After cloning onto your local machine navigate to the folder you cloned into and open it with IntelliJ
-  * Navigate into the ``` src/main/java/App.java ``` and run in IntelliJ
+  * Navigate into the ``` src/main/java/App.java ``` and run in IntelliJ IDEA
   * On your browser and type ``` localhost:4567 ```
  
 ## RUNING TESTS 
