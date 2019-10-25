@@ -55,4 +55,5 @@
   (For further details, see the LICENSE file)
   
 ## Support and Contact Details:
-  For any contributions or troubleshooting, send an e-mail to kendishivy72@gmail.com
+  For any contributions or troubleshooting, send an e-mail to;
+  kendishivy72@gmail.com
