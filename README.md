@@ -36,6 +36,17 @@
   * Navigate into the ``` src/main/java/App.java ``` and run in IntelliJ
   * On your browser and type ``` localhost:4567 ```
  
+## Running Tests 
+ Create a test class for running tests in the application
+ Below is a sample test:
+ ```
+ @Test
+    public void getAnimal_age() {
+        Animal newAnimal = Animal.setUpNewAnimal();
+        assertEquals("young",newAnimal.getAnimal_age());
+    }
+ ```
+
 ## Known Bugs
  No bugs were detected during the development of this project
  :+1:
@@ -46,4 +57,4 @@
    See the LICENSE file for further details
   
 ## Support and Contact Details
-  For any contribuins or troubleshooting send an e-mail to kendishivy72@gmail.com
+  For any contributions or troubleshooting send an e-mail to kendishivy72@gmail.com
