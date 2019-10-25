@@ -1,5 +1,5 @@
 # WILDLIFE TRACKER
- ### By: Sharon Ivy Kendi M.
+ ### By:Sharon Ivy Kendi M.
 
 ## DESCRIPTION:
   This is an application that allows wildlife rangers to track wildlife sightings in the area.
@@ -29,7 +29,7 @@
   * Fork this repository
   * Run the command;
   'git clone https://github.com/SharonIvy/Wildlife-Tracker.git' to clone this repository locally
- ### Installation:
+ ### Installation process:
   * After cloning onto your local machine navigate to the folder you cloned into and open it with IntelliJ
   * Navigate into the ``` src/main/java/App.java ``` and run in IntelliJ
   * On your browser and type ``` localhost:4567 ```
@@ -51,7 +51,7 @@
   
 ## LICENSING
   MIT License
-  (for further details, see the LICENSE file)
+  (for further details, please see the LICENSE file)
   
 ## Support and Contact Details:
   For any contributions or troubleshooting, send an e-mail to;
