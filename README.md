@@ -55,5 +55,5 @@
     Copyright (c) 2019 **Sharon Ivy Kendi M.**
    See the LICENSE file for further details
   
-## Support and Contact Details
+## Support and Contact Details:
   For any contributions or troubleshooting send an e-mail to kendishivy72@gmail.com
