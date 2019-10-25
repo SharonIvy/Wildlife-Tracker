@@ -51,7 +51,7 @@
  #### :+1:
   
 ## LICENSING
-  MIT License
+  **MIT License**
   (for further details, please see the LICENSE file)
   
 ## Support and Contact Details:
