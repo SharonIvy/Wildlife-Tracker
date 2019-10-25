@@ -52,7 +52,7 @@
   
 ## LICENSING
   MIT License
-  (See LICENSE file for further details)
+  (For further details,)
   
 ## Support and Contact Details:
   For any contributions or troubleshooting send an e-mail to kendishivy72@gmail.com
