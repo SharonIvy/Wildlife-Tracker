@@ -2,16 +2,15 @@
 **v1 (as of 22nd October, 2019)**
  ### By: Sharon Ivy Kendi M.
 
-## Description:
+## DESCRIPTION:
   This is an application that allows wildlife rangers to track wildlife sightings in the area.
-  
   ### Built With:
     * Language - [Java](https://www.java.com/)
     * Intergated Development Environment - [IntelliJ IDEA](https://www.jetbrains.com/idea/)
     * Framework - [Apache Spark](https://spark.apache.org/)
 
 
-## Project Pre-requisites
+## PROJECT PRE-REQUISITES
   You need the following installed on your machine:
   - Java
   - Java Development Kit(JDK)
@@ -25,7 +24,7 @@
   $ gradle --version
   ```
   
-## Setup Process
+## SETUP PROCESS
  ### Requirements:
   * See pre-requisites
   * Fork this repository
@@ -36,7 +35,7 @@
   * Navigate into the ``` src/main/java/App.java ``` and run in IntelliJ
   * On your browser and type ``` localhost:4567 ```
  
-## Running Tests 
+## RUNING TESTS 
  Create a test class for running tests in the application
  Below is a sample test:
  ```
@@ -47,11 +46,11 @@
     }
  ```
 
-## Known Bugs
+## KNOWN BUGS
  No bugs were detected during the development of this project
  :+1:
   
-## License
+## LICENSING
   MIT License
     Copyright (c) 2019 **Sharon Ivy Kendi M.**
    See the LICENSE file for further details
