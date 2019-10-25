@@ -1,5 +1,4 @@
 # WILDLIFE TRACKER
-**v1 (as of 22nd October, 2019)**
  ### By: Sharon Ivy Kendi M.
 
 ## DESCRIPTION:
