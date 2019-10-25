@@ -52,7 +52,6 @@
   
 ## LICENSING
   MIT License
-    Copyright (c) 2019 **Sharon Ivy Kendi M.**
    See the LICENSE file for further details
   
 ## Support and Contact Details:
